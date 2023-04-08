@@ -4,7 +4,7 @@ Based On RADAR
 
 
 
-script get WG config to have ping lower
+script get WG config to have lower ping
 
 it just support CS for now
 
